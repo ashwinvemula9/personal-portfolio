@@ -5,7 +5,7 @@ const skillCategories = [
   {
     title: 'Frontend Development',
     icon: <Code2 className="w-6 h-6" />,
-    skills: ['React', 'TypeScript', 'Next.js', 'Vue.js', 'Webpack', 'Redux']
+    skills: ['React', 'TypeScript', 'Next.js', 'Redux','Webpack']
   },
   {
     title: 'UI/UX Design',
@@ -44,14 +44,14 @@ const Skills = () => {
                 <h3 className="text-xl font-bold">{category.title}</h3>
               </div>
               <div className="flex flex-wrap gap-2">
-                {category.skills.map((skill, skillIndex) => (
+                {/* {category.skills.map((skill, skillIndex) => (
                   <span
                     key={skillIndex}
                     className="px-3 py-1 bg-gray-800 rounded-full text-sm text-gray-300"
                   >
                     {skill}
                   </span>
-                ))}
+                ))} */}
               </div>
             </div>
           ))}

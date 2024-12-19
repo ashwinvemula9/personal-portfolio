@@ -19,7 +19,7 @@ const Hero = () => {
             <h3 className="text-2xl md:text-3xl text-gray-400 mb-6">Senior Frontend Developer</h3>
             <p className="text-xl md:text-2xl text-gray-400 mb-12 max-w-3xl mx-auto">
               5+ years of experience crafting exceptional web experiences with modern technologies.
-              Specialized in React, TypeScript, and Node.js.
+              Specialized in React, Javascript, and Node.js.
             </p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-6">
               <a

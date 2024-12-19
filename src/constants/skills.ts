@@ -22,12 +22,12 @@ export const technicalSkills: SkillCategory[] = [
       },
       {
         name: 'TypeScript',
-        level: 90,
+        level: 80,
         description: 'Type-safe development with advanced generics and utility types'
       },
       {
         name: 'Next.js',
-        level: 85,
+        level: 75,
         description: 'Server-side rendering, static site generation, and API routes'
       },
       {
@@ -48,17 +48,17 @@ export const technicalSkills: SkillCategory[] = [
     skills: [
       {
         name: 'Node.js',
-        level: 85,
+        level: 65,
         description: 'RESTful APIs, middleware, and event-driven programming'
       },
       {
         name: 'Express.js',
-        level: 80,
+        level: 60,
         description: 'Route handling, authentication, and API development'
       },
       {
         name: 'MongoDB',
-        level: 75,
+        level: 65,
         description: 'Schema design, queries, and database optimization'
       }
     ]
@@ -76,11 +76,6 @@ export const technicalSkills: SkillCategory[] = [
         name: 'REST APIs',
         level: 85,
         description: 'API design, documentation, and integration'
-      },
-      {
-        name: 'Testing',
-        level: 80,
-        description: 'Unit testing, integration testing with Jest and React Testing Library'
       },
       {
         name: 'Agile',

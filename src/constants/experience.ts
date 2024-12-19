@@ -6,9 +6,9 @@ export const workExperience = [
     role: 'Senior Frontend Developer',
     period: 'Oct 2022 - Present',
     achievements: [
-      'Led a team of 6 developers to deliver 15+ client projects with 100% satisfaction rate',
+      'Led a team of 6 developers to deliver 5+ client projects with 100% satisfaction rate',
       'Reduced application load time by 40% through code optimization and lazy loading',
-      'Implemented micro-frontend architecture resulting in 30% faster development cycles'
+      'Built a replica of "Google sheets" and "ILovePDF" as application modules and few payment sdk integrations',
     ]
   },
   {
@@ -19,7 +19,7 @@ export const workExperience = [
     period: 'Feb 2022 - Oct 2022',
     achievements: [
       'Developed key features used by 100,000+ merchants',
-      'Improved checkout conversion rate by 25% through UX optimizations',
+      'Improved checkout conversion rate by 25% through UX optimizations in payment module',
       'Built reusable component library reducing development time by 40%'
     ]
   },
@@ -29,21 +29,21 @@ export const workExperience = [
     role: 'Frontend Developer',
     period: 'Feb 2021 - Feb 2022',
     achievements: [
-      'Created interactive learning modules used by 50,000+ students',
+      'Created interactive learning modules used by 3.5+ million students',
       'Reduced page load time by 45% improving student engagement',
-      'Implemented real-time collaboration features for 1000+ concurrent users'
+      'Implemented real-time collaboration features for 10,000+ concurrent users'
     ]
   },
   {
     company: 'MyHealthcare',
-    industry: 'Healthcare',
+    industry: 'HealthTech',
     url: 'https://www.myhealthcare.co/',
     role: 'Frontend Developer',
     period: 'Jan 2020 - Feb 2021',
     achievements: [
-      'Developed telemedicine platform serving 10,000+ daily consultations',
+      'Developed telemedicine platform serving 5,000+ daily virtual consultations',
       'Improved application accessibility score to 98%',
-      'Reduced bug reports by 60% through comprehensive testing implementation'
+      'Built reusable component library reducing development time by 40%'
     ]
   }
 ];

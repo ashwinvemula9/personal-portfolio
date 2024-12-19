@@ -26,7 +26,7 @@ const CTASection = () => {
               Download Resume
             </Button>
             <Button
-              href="https://calendly.com/ashwin-vemula"
+              href="https://calendly.com/ashwinvem9/"
               target="_blank"
               rel="noopener noreferrer"
               variant="secondary"

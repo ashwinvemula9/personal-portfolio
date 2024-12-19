@@ -25,8 +25,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-gray-400">Mail me at</p>
-                      <a href="mailto:ashwin.vemula@example.com" className="text-lg hover:text-purple-400 transition-colors">
-                        ashwin.vemula@example.com
+                      <a href="mailto:ashwinvem9@gmail.com" className="text-lg hover:text-purple-400 transition-colors">
+                        ashwinvem9@gmail.com
                       </a>
                     </div>
                   </div>
@@ -36,8 +36,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-gray-400">Call me at</p>
-                      <a href="tel:+1234567890" className="text-lg hover:text-purple-400 transition-colors">
-                        +1 (234) 567-890
+                      <a href="tel:+917299420689" className="text-lg hover:text-purple-400 transition-colors">
+                        +91 72994 20689
                       </a>
                     </div>
                   </div>
@@ -59,7 +59,7 @@ const Contact = () => {
                     <div>
                       <p className="text-gray-400">Schedule a Meeting</p>
                       <a 
-                        href="https://calendly.com/ashwin-vemula"
+                        href="https://calendly.com/ashwinvem9"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-lg hover:text-purple-400 transition-colors"
@@ -71,15 +71,15 @@ const Contact = () => {
                   <div className="pt-4">
                     <p className="text-gray-400 mb-4">Connect with me</p>
                     <div className="flex items-center gap-4">
-                      <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+                      <a href="https://github.com/ashwinvemula9" target="_blank" rel="noopener noreferrer" 
                          className="p-3 bg-purple-500/20 rounded-lg text-purple-400 hover:bg-purple-500/30 transition-colors">
                         <Github className="w-6 h-6" />
                       </a>
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+                      <a href="https://linkedin.com/in/ashwin-vemula" target="_blank" rel="noopener noreferrer"
                          className="p-3 bg-purple-500/20 rounded-lg text-purple-400 hover:bg-purple-500/30 transition-colors">
                         <Linkedin className="w-6 h-6" />
                       </a>
-                      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"
+                      <a href="https://x.com/ashwin_vem" target="_blank" rel="noopener noreferrer"
                          className="p-3 bg-purple-500/20 rounded-lg text-purple-400 hover:bg-purple-500/30 transition-colors">
                         <Twitter className="w-6 h-6" />
                       </a>
