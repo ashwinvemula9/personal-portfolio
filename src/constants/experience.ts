@@ -6,9 +6,10 @@ export const workExperience = [
     role: 'Senior Frontend Developer',
     period: 'Oct 2022 - Present',
     achievements: [
-      'Led a team of 6 developers to deliver 5+ client projects with 100% satisfaction rate',
       'Reduced application load time by 40% through code optimization and lazy loading',
+      'Improved page speed (web vitals) and performance.',
       'Built a replica of "Google sheets" and "ILovePDF" as application modules and few payment sdk integrations',
+      'Led a team of four engineers as a senior frontend developer and performed PR reviews on a daily basis.',
     ]
   },
   {
@@ -43,7 +44,7 @@ export const workExperience = [
     achievements: [
       'Developed telemedicine platform serving 5,000+ daily virtual consultations',
       'Improved application accessibility score to 98%',
-      'Built reusable component library reducing development time by 40%'
+      'Built an application from scratch with reusable components library reducing development time by 40%'
     ]
   }
 ];

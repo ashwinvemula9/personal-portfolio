@@ -3,28 +3,28 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A modern e-commerce platform built with React, Redux, and Node.js. Features include real-time inventory management and AI-powered product recommendations.',
-    image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800&h=500',
-    tech: ['React', 'Redux', 'Node.js', 'MongoDB'],
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com'
+    title: 'Real Time Music sequencer',
+    description: 'A "Real Time Music Sequencer" is an interactive application that uses WebSockets for synchronized, collaborative music creation and live sequencing across multiple users.',
+    image: 'https://producelikeapro.com/blog/wp-content/uploads/2022/03/The-5-Best-Online-Sequencer-Options-in-2022.jpg',
+    tech: ['React', 'Typescript', 'Node.js', 'Websocket'],
+    liveUrl: 'https://ashwinvemula9.github.io/music_seq_FE/',
+    githubUrl: 'https://github.com/ashwinvemula9/music_seq_BE'
   },
   {
-    title: 'Financial Dashboard',
-    description: 'Real-time financial analytics dashboard with interactive charts and data visualization. Built using React, D3.js, and WebSocket for live updates.',
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=500',
-    tech: ['React', 'D3.js', 'TypeScript', 'WebSocket'],
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com'
+    title: 'Spotify clone with SDK',
+    description: 'A "Spotify Clone" application leveraging the Spotify SDK to deliver seamless music streaming, playlist management, and user personalization.',
+    image: 'https://storage.googleapis.com/pr-newsroom-wp/1/2023/12/Spotify_Logo_RGB_White-1.png',
+    tech: ['React', 'Javascript', 'spotify SDK'],
+    liveUrl: 'https://ashwinvemula9.github.io/spotify_clone/',
+    githubUrl: 'https://github.com/ashwinvemula9/spotify_clone'
   },
   {
-    title: 'Social Media App',
-    description: 'A modern social media application with real-time messaging, post sharing, and user interactions. Built with React, Firebase, and Progressive Web App capabilities.',
-    image: 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800&h=500',
-    tech: ['React', 'Firebase', 'PWA', 'TailwindCSS'],
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com'
+    title: 'Cricket real time score board',
+    description: '"Cricket Real-Time Score Board" is a dynamic app leveraging "CricAPI" to provide live cricket scores and match updates instantly',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhcZZHgK6-iP66wZBkT2N8Onxk5W4KEXJDA&s',
+    tech: ['React','TypeScript',  'TailwindCSS'],
+    liveUrl: 'https://ashwinvemula9.github.io/Cricket-real-time-score-board/',
+    githubUrl: 'https://github.com/ashwinvemula9/Cricket-real-time-score-board'
   }
 ];
 
