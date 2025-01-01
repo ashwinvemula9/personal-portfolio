@@ -1,7 +1,7 @@
 export const workExperience = [
   {
-    company: 'CAW Studios',
-    industry: 'Technology Solutions',
+    company: 'Flipspaces (CAW)',
+    industry: 'Interior Design',
     url: 'https://caw.tech/',
     role: 'Senior Frontend Developer',
     period: 'Oct 2022 - Present',
